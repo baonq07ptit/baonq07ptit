@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi there, I'm Bảo 👋</h1>
-<h3 align="center">Front-end Developer & Student at PTIT 🚀</h3>
+<h1 align="center">Hello World, Bảo here! ⚡</h1>
+<h3 align="center">Crafting pixels & UI logic @ Posts and Telecommunications Institute of Technology 🚀</h3>
 
 <br>
 
