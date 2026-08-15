@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hello World, Bảo here! ⚡</h1>
-<h3 align="center">Crafting pixels & UI logic @ Posts and Telecommunications Institute of Technology 🚀</h3>
+<h1 align="center">Hello World, BaoBao here! ⚡</h1>
+<h3 align="center">Education: Posts and Telecommunications Institute of Technology 🚀</h3>
 
 <br>
 
@@ -46,11 +46,11 @@ Here are some ideas to get you started:
 ---
 
 ### 📊 GitHub Stats:
-<p>
+<!-- <p>
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=baonq07ptit&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baonq07ptit&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=baonq07ptit&theme=radical" alt="GitHub Streak" />
-</p>
+</p> -->
