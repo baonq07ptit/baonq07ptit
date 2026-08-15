@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **baonq07ptit/baonq07ptit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🌐 Kết nối với tôi:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1BixLoJgK8/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/wuo.3oz_ig?igsh=bG0wdDByNXp0ajdv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bảo-nguyễn-53a604385)
 
 <h1 align="center">Hi there, I'm Bảo 👋</h1>
 <h3 align="center">Front-end Developer & Student at PTIT 🚀</h3>
@@ -27,13 +22,13 @@ Here are some ideas to get you started:
 
 ### 🌐 Connect with me:
 <p>
-  <a href="https://facebook.com/LINK_FACEBOOK_CUA_BAN" target="_blank">
+  <a href="https://www.facebook.com/share/1BixLoJgK8/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
   </a>
-  <a href="https://instagram.com/LINK_INSTAGRAM_CUA_BAN" target="_blank">
+  <a href="https://www.instagram.com/wuo.3oz_ig?igsh=bG0wdDByNXp0ajdv" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
-  <a href="https://linkedin.com/in/LINK_LINKEDIN_CUA_BAN" target="_blank">
+  <a href="www.linkedin.com/in/bảo-nguyễn-53a604385" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:baonq07.ptit@gmail.com">
