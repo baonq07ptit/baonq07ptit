@@ -19,3 +19,43 @@ Here are some ideas to get you started:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/share/1BixLoJgK8/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/wuo.3oz_ig?igsh=bG0wdDByNXp0ajdv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/bảo-nguyễn-53a604385)
+
+<h1 align="center">Hi there, I'm Bảo 👋</h1>
+<h3 align="center">Front-end Developer & Student at PTIT 🚀</h3>
+
+<br>
+
+### 🌐 Connect with me:
+<p>
+  <a href="https://facebook.com/LINK_FACEBOOK_CUA_BAN" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://instagram.com/LINK_INSTAGRAM_CUA_BAN" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://linkedin.com/in/LINK_LINKEDIN_CUA_BAN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:baonq07.ptit@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack:
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,py,git,github,sql" alt="Tech Stack Icons">
+</p>
+
+---
+
+### 📊 GitHub Stats:
+<p>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=baonq07ptit&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baonq07ptit&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baonq07ptit&theme=radical" alt="GitHub Streak" />
+</p>
