@@ -8,9 +8,9 @@
 
   <br />
 
-  <!-- Banner tên cá nhân (Thay link ảnh banner bạn tự thiết kế vào src) -->
+  <!-- Banner Nền Matrix -->
   <a href="https://github.com/baonq07ptit">
-    <img src="https://via.placeholder.com/800x300/0B0F19/FFFFFF?text=NGUYEN+QUOC+BAO" alt="Bao Nguyen Banner" width="100%" />
+    <img src="https://github.com/baonq07ptit/baonq07ptit/blob/main/banner.jpg?raw=true" alt="Bao Nguyen Banner" width="100%" />
   </a>
 
   <br /><br />
