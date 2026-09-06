@@ -10,7 +10,7 @@
 
   <!-- Banner Nền Matrix -->
   <a href="https://github.com/baonq07ptit">
-    <img src="[https://github.com/baonq07ptit/baonq07ptit/blob/main/banner.jpg?raw=true](https://github.com/baonq07ptit/baonq07ptit/blob/0c277e5687ef70551d94de364bbd75dee57ec2d5/Gemini_Generated_Image_qv06lwqv06lwqv06.png)" alt="Bao Nguyen Banner" width="100%" />
+    <img src="https://github.com/baonq07ptit/baonq07ptit/blob/0c277e5687ef70551d94de364bbd75dee57ec2d5/Gemini_Generated_Image_qv06lwqv06lwqv06.png?raw=true" alt="Bao Nguyen Banner" width="100%" />
   </a>
 
   <br /><br />
